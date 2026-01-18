@@ -2,7 +2,7 @@ A simple Playing Cards UI created using HTML and CSS.
 This project demonstrates how to structure card components using Flexbox and align elements to resemble real playing cards. It focuses on layout, alignment, and clean UI design without using JavaScript.
 ## 📸 Preview
 
-![Playing Cards UI](./Playing_Card.png)
+![Playing Cards UI](./Playing_card.png)
 
 
 # Playing Cards UI
